@@ -15,3 +15,5 @@
 
 ![Akita':"s Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akitayyy&layout=compact&theme=dark)
 
+![Akita's Streak](https://github-readme-streak-stats.herokuapp.com/?user=akitayyy&theme=dark)
+
