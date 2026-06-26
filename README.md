@@ -1,5 +1,6 @@
 ## Akita about me 🧠
 
+Hi, my name is Akita, and I'm a 17 years old software developer from 🇭🇺
 
 ## Tech Stack
 
