@@ -13,3 +13,5 @@
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)
 
 
+![Akita':"s Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akitayyy&layout=compact&theme=dark)
+
