@@ -14,5 +14,5 @@ Hi, my name is Akita, and I'm a 17 years old software developer from 🇭🇺
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)
 
 ![Akita's Streak](https://github-readme-streak-stats.herokuapp.com/?user=akitayyy&theme=dark)
-![Akita's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akitayyy&layout=compact&theme=dark&cache_seconds=1800)
+![Akita's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akitayyy&layout=compact&theme=dark&cache_seconds=1700)
 
