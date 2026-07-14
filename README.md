@@ -15,4 +15,4 @@ Hi, my name is Akita, and I'm a 17 years old software developer from 🇭🇺
 
 ### CODING STATS
 
-https://github-readme-stats.hackclub.dev/api/wakatime?username=58876&api_domain=hackatime.hackclub.com&theme=monokai&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8
+![Stats](https://github-readme-stats.hackclub.dev/api/wakatime?username=58876&api_domain=hackatime.hackclub.com&theme=monokai&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8)
