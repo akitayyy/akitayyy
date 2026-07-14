@@ -2,6 +2,10 @@
 
 Hi, my name is Akita, and I'm a 17 years old software developer from 🇭🇺
 
+### CODING STATS
+
+![Stats](https://github-readme-stats.hackclub.dev/api/wakatime?username=58876&api_domain=hackatime.hackclub.com&theme=monokai&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8)
+
 ## Tech Stack
 
 ### Frontend
@@ -12,7 +16,3 @@ Hi, my name is Akita, and I'm a 17 years old software developer from 🇭🇺
 
 ### Mobile & Other
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)
-
-### CODING STATS
-
-![Stats](https://github-readme-stats.hackclub.dev/api/wakatime?username=58876&api_domain=hackatime.hackclub.com&theme=monokai&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8)
